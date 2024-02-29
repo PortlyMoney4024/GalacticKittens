@@ -1728,8 +1728,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1719634259}
-  - component: {fileID: 1719634260}
   - component: {fileID: 1719634261}
+  - component: {fileID: 1719634260}
   m_Layer: 0
   m_Name: SimpleEnemySpawner
   m_TagString: Untagged
